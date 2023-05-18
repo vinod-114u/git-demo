@@ -1,0 +1,1 @@
+This is the first sample text file created by using the git bash command 'cat > filename.extension'
